@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = afonso.miguel1995@gmail.com
+	name = afonso miguel
